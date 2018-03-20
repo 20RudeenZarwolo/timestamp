@@ -1,0 +1,25 @@
+{
+  "name": "micro-timestamp",
+  "version": "1.0.0",
+  "description": "Generate UNIX and nature date from a given date string",
+  "main": "index.js",
+  "dependencies": {
+    "destroy": "^1.0.4",
+    "express": "^4.16.3",
+    "moment": "^2.21.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/20RudeenZarwolo/timestamp.git"
+  },
+  "author": "Rudee Zarwolo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/20RudeenZarwolo/timestamp/issues"
+  },
+  "homepage": "https://github.com/20RudeenZarwolo/timestamp#readme"
+}
